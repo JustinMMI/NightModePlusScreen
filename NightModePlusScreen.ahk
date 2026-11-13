@@ -10,7 +10,7 @@ if (A_Args.Length > 0) {
 }
 
 ; --- CONFIG ---
-CMM := "C:\Users\Justin\Downloads\controlmymonitor\ControlMyMonitor.exe"
+CMM := "C:\Users\{Your User Name}\Downloads\controlmymonitor\ControlMyMonitor.exe"
 Ecran := "Primary"
 Ecrandeux := "Secondary"
 Ecrantrois := "Tertiary"
